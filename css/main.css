@@ -15,6 +15,10 @@ img
 		fill: red;
 	}
 
+.st0
+{
+	fill: none;
+}
 .st1
 {
 	animation-duration: 4s;
