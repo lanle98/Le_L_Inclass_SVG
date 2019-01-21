@@ -15,10 +15,11 @@ img
 		fill: red;
 	}
 
-#Layer_4
+.st1
 {
 	animation-duration: 4s;
 	animation-name: myanimation;
+	animation-iteration-count: infinite;
 
 }
 
