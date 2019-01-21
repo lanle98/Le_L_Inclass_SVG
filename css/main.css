@@ -9,3 +9,23 @@ img
 	width: 100%;
 	display: block;
 }
+
+#background:hover
+	{
+		fill: red;
+	}
+
+#Layer_4
+{
+	animation-duration: 4s;
+	animation-name: myanimation;
+
+}
+
+@keyframes myanimation
+{
+	0%   {fill: red;}
+  25%  {fill: yellow;}
+  50%  {fill: blue;}
+  100% {fill: green;}
+}
